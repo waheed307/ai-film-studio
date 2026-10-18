@@ -1,0 +1,15 @@
+{
+  "name": "ai-film-studio",
+  "main": "src/worker.js",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./public"
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "ai-film-studio-db",
+      "database_id": "YAHAN_APNA_ASAL_UUID_DAALO"
+    }
+  ]
+}
