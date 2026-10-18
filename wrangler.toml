@@ -7,5 +7,5 @@ directory = "./public"
 
 [[d1_databases]]
 binding = "DB"
-database_name = "ai-film-studio"
+database_name = "ai-film-studio-db"
 database_id = "2dddc81d-37db-41f8-8802-466c1d399535"
