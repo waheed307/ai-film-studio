@@ -1,4 +1,4 @@
-name = "ai-film-studio"
+okname = "ai-film-studio"
 main = "src/worker.js"
 compatibility_date = "2026-10-01"
 
@@ -8,6 +8,4 @@ directory = "./public"
 [[d1_databases]]
 binding = "DB"
 database_name = "ai-film-studio"
-database_id = "
-
-2dddc81d-37db-41f8-8802-466c1d399535"
+database_id = "2dddc81d-37db-41f8-8802-466c1d399535"
